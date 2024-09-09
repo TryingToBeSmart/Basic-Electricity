@@ -59,5 +59,31 @@ Electricity is the flow of electric charge, usually through a conductor like a w
 
 ---
 
+#### **Wire Colors and Their Meanings**
+
+Understanding the color coding of wires is crucial for safety and ensuring correct electrical connections.
+
+- **Black Wires**
+  - **Purpose**: Typically used for hot (live) wires carrying current from the power source to a device or outlet.
+  - **Note**: Always handle black wires with caution as they are usually energized.
+
+- **Red Wires**
+  - **Purpose**: Also used as hot wires, often for secondary live wires in 220-volt applications or as switch legs.
+  - **Note**: Like black wires, red wires can carry live current.
+
+- **White Wires**
+  - **Purpose**: Typically used for neutral wires, which carry current back to the power source.
+  - **Note**: Even though neutral wires are not usually energized, they can still carry current, so caution is necessary.
+
+- **Green or Bare Copper Wires**
+  - **Purpose**: Used for grounding, providing a path for electrical current to safely dissipate into the ground in case of a fault.
+  - **Note**: Ground wires are essential for safety and should never be used as hot or neutral wires.
+
+- **Blue and Yellow Wires**
+  - **Purpose**: These colors are often used for specific purposes like switch wiring or to carry power to outlets, light switches, or fan controls.
+  - **Note**: They are typically hot wires, so handle them with care.
+
+---
+
 #### **Summary**
 Understanding the basic concepts of voltage, current, resistance, and power, along with the roles of conductors, insulators, and other electrical properties, is essential for grasping how electricity works in circuits and devices.
