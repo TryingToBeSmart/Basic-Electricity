@@ -2,12 +2,12 @@
 
 ---
 
-#### **1. Introduction to Electricity**
+#### **Introduction to Electricity**
 Electricity is the flow of electric charge, usually through a conductor like a wire. It powers everything from small gadgets to large machinery.
 
 ---
 
-#### **2. Key Concepts**
+#### **Key Concepts**
 
 - **Voltage (Potential)**
   - **Definition**: Voltage is the electric potential difference between two points. It is the force that pushes electric charge through a conductor.
@@ -32,7 +32,7 @@ Electricity is the flow of electric charge, usually through a conductor like a w
 
 ---
 
-#### **3. Components of Electricity**
+#### **Components of Electricity**
 
 - **Conductors**
   - **Definition**: Materials that allow the flow of electrical current easily.
@@ -59,5 +59,5 @@ Electricity is the flow of electric charge, usually through a conductor like a w
 
 ---
 
-#### **4. Summary**
+#### **Summary**
 Understanding the basic concepts of voltage, current, resistance, and power, along with the roles of conductors, insulators, and other electrical properties, is essential for grasping how electricity works in circuits and devices.
